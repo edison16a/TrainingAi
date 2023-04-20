@@ -1,1 +1,1 @@
-# Cruzhacks-2023-TrashGo
+Dog Training AI
